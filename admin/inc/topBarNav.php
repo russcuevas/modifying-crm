@@ -44,14 +44,14 @@
   }
 
   .nav-link.active {
-    background-color: blue;
+    background-color: darkblue;
     color: white !important;
   }
 </style>
 
 
 <!-- Navbar -->
-<nav class="main-header navbar navbar-expand navbar-light border-top-0 border-left-0 border-right-0 text-sm shadow-sm bg-gradient-light">
+<nav style="background-color: black !important;" class="main-header navbar navbar-expand border-top-0 border-left-0 border-right-0 text-sm shadow-sm">
   <!-- Left navbar links -->
   <ul class="navbar-nav">
     <li class="nav-item">
